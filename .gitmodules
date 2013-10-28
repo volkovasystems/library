@@ -1,0 +1,15 @@
+[submodule "absurd/repository/absurd"]
+	path = absurd/repository/absurd
+	url = https://github.com/krasimir/absurd.git
+[submodule "underscore/repository/underscore"]
+	path = underscore/repository/underscore
+	url = https://github.com/jashkenas/underscore.git
+[submodule "less/repository/less"]
+	path = less/repository/less
+	url = https://github.com/less/less.js.git
+[submodule "async/repository/async"]
+	path = async/repository/async
+	url = https://github.com/caolan/async.git
+[submodule "string/repository/string"]
+	path = string/repository/string
+	url = https://github.com/jprichardson/string.js.git
