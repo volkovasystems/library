@@ -13,3 +13,6 @@
 [submodule "string/repository/string"]
 	path = string/repository/string
 	url = https://github.com/jprichardson/string.js.git
+[submodule "class/repository/class-js"]
+	path = class/repository/class-js
+	url = https://github.com/volkovasystems/class-js.git
